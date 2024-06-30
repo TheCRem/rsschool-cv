@@ -27,5 +27,18 @@ function multiply(a, b){
 }
 ```
 
+***
+### Education
+* Northern State Medical University
+  * Specialty computer scientist-economist
+* Vyatka State University
+  * State municipal administration
+* Courses
+  * 1C Administrator
+  * Procurement Expert
 
+***
+### Languages
+* Russia - native
+* English - A1
 
