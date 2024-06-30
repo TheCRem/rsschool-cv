@@ -1,10 +1,10 @@
 # [rsschool-cv](https://TheCRem.github.io/rsschool-cv/cv)
 
+***
 # Artur Mikhailov
 
 ***
 ### My Contact Info
-
 * **Location :** St. Petersburg, Naryan-Mar, Russia
 * **Phone :** +7911  679-58-11
 * **E-mail :** <themrcremik@gmail.com>
@@ -26,6 +26,10 @@ function multiply(a, b){
   a * b
 }
 ```
+
+***
+### Experience
+[RSSchool](https://github.com/TheCRem/rsschool-cv.git)
 
 ***
 ### Education
